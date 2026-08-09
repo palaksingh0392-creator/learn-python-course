@@ -1,0 +1,53 @@
+Introduction to Python:-
+
+What is python?
+Python is a high-level programming language celebrated for its simplicity, readability, and versatility. It means it is used to create programs used in a system, software, applications to perform some specific functions. 
+It is a widely used language because of its easy syntax like the English language. It was designed by Guido van Rossum and released in 1991.
+Unlike, other programming language like c++, c# and java .It also has the feature of oops paradigm which supports the four pillars of oops like inheritance, abstraction, encapsulation and polymorphism.
+It is also called as cold scripting language or glue language because it easily integrates with html and other sources to provide better functionality and interface. 
+It generally saves the time of programmers by increasing the readability and often requires easy syntax.
+
+Why do we use it?
+
+1.We use python due to its some extra supported features:-
+2. We can create dynamic web applications
+3. web development (server-side),
+4. software development,
+5. mathematics,
+6. system scripting.
+
+Why is there a need for python?
+
+python is needed due to many reasons:-
+1. Data Science
+python is highly preffered by data scientists. because use of extensive data and in it compies or many areas.
+it becomes more necessary with the release of 'numpy' and 'pandas'
+
+2. Easy to Learn
+it is considered as easy to learn because of its similar english like syntax.
+
+3. Cross-Platform and Open Source
+it is widely supported on cross platforms like - windows, linux and macos for more than 20 years.
+
+4. Vast Libraries
+Python is supported by PyPI which has 85,000+ python scripts and modules accessible to the user.
+
+5. Flexibility
+Python has several powerful applications integrated with other programming languages.
+
+6. Artificial Intelligence
+the huge support by Artificial Intelligence to the python. it becomes necessary to learn it.
+
+7. Web Development
+Python has a variety of framework support website or web-development. Python has an array of frameworks for developing websites. 
+Popular frameworks such as Django, Flask, and Pylons are characterized by faster and stable code
+
+8. Computer Graphics
+Python can be employed in small, large, online or offline projects. It is used to develop GUI and desktop applications.
+
+9. Scripting and Automation
+What most people don’t know about Python is that it can be used as a scripting language. In scripting, the code is written in script form and gets executed.
+
+10.  Versatile Language and Platform
+Python remains very relevant today as it can be used in any operations scenario or software development, be it in managing local and cloud infrastructure, working against a SQL database, developing a custom function for Hive & Pig, 
+supporting object-oriented design or even developing a small tool for the user.
